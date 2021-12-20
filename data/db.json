@@ -1,0 +1,53 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "nama": "Alif Fairuz Amri",
+      "kelas": "10",
+      "buku": "Bahasa Indonesia",
+      "done": false
+    },
+    {
+      "id": 2,
+      "nama": "Alwi Haidar Amri",
+      "kelas": "12",
+      "buku": "Seni Budaya",
+      "done": true
+    },
+    {
+      "id": 3,
+      "nama": "Achmad Saiful Amri",
+      "kelas": "11",
+      "buku": "Bahasa Inggris",
+      "done": true
+    },
+    {
+      "id": 4,
+      "nama": "Kanza Salsabila",
+      "kelas": "12",
+      "buku": "Bahasa Jawa",
+      "done": false
+    },
+    {
+      "id": 5,
+      "nama": "Achmad Avandi",
+      "kelas": "10",
+      "buku": "Penjas Orkes",
+      "done": true
+    },
+    {
+      "nama": "Fiina Tsamrotun Nafisah",
+      "buku": "Matematika",
+      "kelas": "11",
+      "done": false,
+      "id": 6
+    },
+    {
+      "nama": "Mas Riri",
+      "buku": "Programing",
+      "kelas": "12",
+      "done": false,
+      "id": 7
+    }
+  ]
+}
